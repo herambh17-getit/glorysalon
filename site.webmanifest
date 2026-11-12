@@ -1,0 +1,20 @@
+{
+ "name": "Glory Beauty Salon Skinn Aesthetics and Healings",
+ "short_name": "Glory",
+ "start_url": "/",
+ "display": "standalone",
+ "background_color": "#FFFFFF",
+ "theme_color": "#991C64",
+ "icons": [
+  {
+   "src": "/apple-touch-icon.png",
+   "sizes": "180x180",
+   "type": "image/png"
+  },
+  {
+   "src": "/icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  }
+ ]
+}
