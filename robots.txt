@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://glorysalons.in/sitemap.xml
+Sitemap: https://www.glorysalons.in/sitemap.xml
